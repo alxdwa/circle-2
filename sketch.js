@@ -51,6 +51,6 @@ class Arc {
 
 function keyTyped() {
 	if (key === 's') {
-			save('canvas.png');
+			save('canvas.gif');
   }
 }
